@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\C--CodeWars\bin\Debug\net6.0\C--CodeWars.exe
+C:\Users\Decagon\source\repos\C--CodeWars\bin\Debug\net6.0\C--CodeWars.deps.json
+C:\Users\Decagon\source\repos\C--CodeWars\bin\Debug\net6.0\C--CodeWars.runtimeconfig.json
+C:\Users\Decagon\source\repos\C--CodeWars\bin\Debug\net6.0\C--CodeWars.dll
+C:\Users\Decagon\source\repos\C--CodeWars\bin\Debug\net6.0\C--CodeWars.pdb
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.dll
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\refint\C--CodeWars.dll
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.pdb
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\C--CodeWars.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\C--CodeWars\obj\Debug\net6.0\ref\C--CodeWars.dll
