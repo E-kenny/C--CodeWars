@@ -2,8 +2,12 @@
 
 using C__CodeWars;
 
-List<object> a = new List<object>{1,2,3,4};
-    Console.WriteLine(Kata.DescendingOrder(345667));
+int[] a ={1,7,2,4,3,};
+    Console.WriteLine(Kata.SortArray(a));
 
+foreach (var item in Kata.SortArray(a))
+{
+    Console.WriteLine(item);
 
+}
 

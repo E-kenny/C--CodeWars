@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\C--CodeWars\\C--CodeWars.csproj",
-      "projectName": "C--CodeWars",
-      "projectPath": "C:\\Users\\Decagon\\source\\repos\\C--CodeWars\\C--CodeWars.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\C--CodeWars\\C__CodeWars.csproj",
+      "projectName": "C__CodeWars",
+      "projectPath": "C:\\Users\\Decagon\\source\\repos\\C--CodeWars\\C__CodeWars.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Decagon\\source\\repos\\C--CodeWars\\obj\\",
       "projectStyle": "PackageReference",
