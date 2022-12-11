@@ -1,13 +1,7 @@
 ﻿
-
 using C__CodeWars;
 
-int[] a ={1,7,2,4,3,};
-    Console.WriteLine(Kata.SortArray(a));
+char[] a ={'a','b','c','e'};
+    Console.WriteLine(Kata.DuplicateEncode("Success"));
 
-foreach (var item in Kata.SortArray(a))
-{
-    Console.WriteLine(item);
-
-}
 

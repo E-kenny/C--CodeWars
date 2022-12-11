@@ -9,7 +9,6 @@ namespace C__CodeWars
             string[] strArr = s.Split(' ');
 
             int count = 0;
-
             do
             {
                 if (count == 0)

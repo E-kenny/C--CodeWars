@@ -1,9 +1,9 @@
 using System;
 namespace C__CodeWars
 {
-    public class Find_it
+    public partial class Kata
     {
-        public int Find(int[] arr)
+        public int Find_it(int[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
             {
